@@ -484,10 +484,10 @@ def not_reg():
     
        
 			
-			print("")
-			input("\033[1;37m WELLCOME TO MY OWN HACKING WORLD"]
-			print("\033[1;32m Done ")
-			time.sleep(2.0)
+	
+	
+			
+			
 			
 			os.system("clear")
 		print(logo)
