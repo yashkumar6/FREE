@@ -482,9 +482,8 @@ def not_reg():
     Token_token()
 
     
-       print("")
-			input("\n\033[1;32m  Type You Are Real Name \033[1;36m")
-			time.sleep(2.1)
+       
+			
 			print("")
 			input("\033[1;37m WELLCOME TO MY OWN HACKING WORLD"]
 			print("\033[1;32m Done ")
