@@ -420,11 +420,11 @@ logo = ("""
 
 """)
  
-	def runtxt(z):
-    for e in z + "\n":
-        sys.stdout.write(e)
-        sys.stdout.flush()
-        time.sleep(0.03)
+	
+
+       
+        
+
 
 os.system('termux-setup-storage')
 
