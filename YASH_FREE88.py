@@ -443,7 +443,7 @@ import platform
 
 def Token_token():
 	os.system("clear")
-	print logo
+	print logo("")
 	print("")
 	try:
 		tok = open('/sdcard/Download/.yashkumar2009.txt', 'r').read()
