@@ -469,7 +469,7 @@ class Main:
 			#yahan pr v apna github link dalna aproval wala
 			plr = requests.get('https://github.com/yashkumar6/FREE/blob/main/Approval.txt').text
   
-       print("")
+                        print("")
 			input("\n\033[1;32m  Type You Are Real Name \033[1;36m")
 			time.sleep(2.1)
 			print("")
