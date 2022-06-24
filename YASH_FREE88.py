@@ -489,7 +489,7 @@ def not_reg():
 			
 			
 			
-			os.system("clear")
+			
 		print(logo)
 		print(" [▪]MENU METHOD")
 		print("\033[1;37m- - - - - - - - - - - - - - - - - - - - - - - - - - -")
