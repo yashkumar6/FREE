@@ -1,7 +1,3 @@
- 
- ​# DECOMPILED BY YASH
- ​# DONT MESS WITH ME 
- ​# BAP SA PANGA NHI  
  ​import​ ​requests 
  ​import​ ​bs4 
  ​import​ ​sys 
